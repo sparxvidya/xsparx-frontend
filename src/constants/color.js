@@ -1,0 +1,9 @@
+export const orange = "rgb(40, 46, 49)";
+export const orangeLight = "rgba(234,112,122,0.3";
+export const gray = "rgba(247,247,247,50)";
+export const lightBlue= "#2694ab";
+export const matBlack="rgba(0,0,0,0.7)";
+export const bgGradient="linear-gradient(rgb(12, 17, 66),rgb(124, 179, 66)"
+export const purple ="rgba(75, 12, 192, 1)"
+export const purpleLight="rgba(75, 12, 192, 0.3)"
+export const skyBlue = "rgb(222,243,252)"
